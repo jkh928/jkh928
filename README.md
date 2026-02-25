@@ -32,3 +32,4 @@ I am currently working through the **C++ Student Roster Application**, demonstra
 - 🔭 I’m currently working on my **C++ Performance Assessment**.
 - 🌱 I’m currently learning **User-Defined Functions and Pointers**.
 - ⚡ **Fun Fact:** I use a strict Git Bash workflow with custom aliases for efficient commits.
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshuahasam)
