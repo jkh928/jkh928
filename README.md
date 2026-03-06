@@ -5,12 +5,11 @@ I am currently navigating a structured roadmap through software engineering and 
 
 ---
 
-### 🚀 Current Focus: BSCS to MSCS (AI/ML) Bridge
-I am currently establishing the formal reasoning and computational foundations required for graduate-level AI research. 
+## 🚀 Current Focus
 
-* **Computational Logic:** Implementing discrete mathematical structures in Python to verify formal logic and algorithmic reasoning.
-* **Low-Level Architecture:** Mastering memory management and hardware-software interfacing via C++ to optimize AI model performance.
-* **Mathematical Modeling:** Applying Linear Algebra and Vector Calculus to fundamental machine learning concepts.
+* 🔭 **In-Progress:** Completing the **C++ (C867)** Scripting and Programming Applications project.
+* 🌱 **Learning:** Discrete Mathematics I (Logic and Subsets) & Linear Algebra.
+* ⚡ **Fun Fact:** I maintain a strict Git workflow using **Conventional Commits** to ensure repository scalability and readability.
 
 ---
 
@@ -21,17 +20,19 @@ I am currently establishing the formal reasoning and computational foundations r
 
 ---
 
-### 📈 The Roadmap
-- [x] Phase 1a: General Education & Core Foundations.
-- [x] Phase 1b: Web Dev & Data Management.
-- [/] Phase 1c (In-Progress): C++, Discrete Math, and Low-Level Architecture.
-- [ ] Phase 2 (The Java Wall): Enterprise Back-End, Docker, and Scalable Systems.
-- [ ] Phase 3 (The AI Pivot): MSCS Bridge, Deep Learning, and NLP Specialization.
+## 🗺️ The Roadmap
+
+* [x] **Phase 1a:** General Education & Core Foundations 
+* [x] **Phase 1b:** Web Dev & Data Management 
+* [ ] **Phase 1c (In-Progress):** C++, Discrete Math, and Low-Level Architecture ⚡
+* [ ] **Phase 2 (The Java Wall):** Enterprise Back-End, Docker, and Scalable Systems 
+* [ ] **Phase 3 (The AI Pivot):** MSCS Bridge, Deep Learning, and NLP Specialization 
 
 ---
 
 ### 📫 Connect with me
-- 🔭 I’m currently working on my **C++ Performance Assessment**.
-- 🌱 I’m currently learning **User-Defined Functions and Pointers**.
-- ⚡ **Fun Fact:** I use a strict Git Bash workflow with custom aliases for efficient commits.
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshuahasam)
+
+I am currently accelerating through my **BSCS + MSCS (AI/ML) Bridge** and actively building my technical portfolio. I am open to discussing **AI Engineering internships**, **Data Infrastructure**, and **Computational Logic**.
+
+* **LinkedIn:** [linkedin.com/in/joshuahasam](https://www.linkedin.com/in/joshuahasam/) 
+* **GitHub (Portfolio):** [github.com/jkh928](https://github.com/jkh928)
