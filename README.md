@@ -5,11 +5,12 @@ I am currently navigating a structured roadmap through software engineering and 
 
 ---
 
-### 🚀 Current Focus: Phase 1b (C++ & Discrete Math)
-I am currently working through the **C++ Student Roster Application**, demonstrating competencies in:
-- **Object-Oriented Programming (OOP):** Class design, encapsulation, and inheritance.
-- **Memory Management:** Working with pointers, arrays, and manual memory allocation.
-- **Algorithm Design:** Implementing parsing logic and data manipulation.
+### 🚀 Current Focus: BSCS to MSCS (AI/ML) Bridge
+I am currently establishing the formal reasoning and computational foundations required for graduate-level AI research. 
+
+* **Computational Logic:** Implementing discrete mathematical structures in Python to verify formal logic and algorithmic reasoning.
+* **Low-Level Architecture:** Mastering memory management and hardware-software interfacing via C++ to optimize AI model performance.
+* **Mathematical Modeling:** Applying Linear Algebra and Vector Calculus to fundamental machine learning concepts.
 
 ---
 
@@ -21,10 +22,11 @@ I am currently working through the **C++ Student Roster Application**, demonstra
 ---
 
 ### 📈 The Roadmap
-- [x] **Phase 1a:** General Education & Core Foundations.
-- [ ] **Phase 1b (Jan - Current):** C++, Discrete Math, and Web Dev.
-- [ ] **Phase 2 (Java Wall):** Full immersion in Java, Spring Boot, and Docker.
-- [ ] **Phase 3 (Py Pivot):** DSA II with Python, AI Hosting (Azure), and Capstone.
+- [x] Phase 1a: General Education & Core Foundations.
+- [x] Phase 1b: Web Dev & Data Management.
+- [/] Phase 1c (In-Progress): C++, Discrete Math, and Low-Level Architecture.
+- [ ] Phase 2 (The Java Wall): Enterprise Back-End, Docker, and Scalable Systems.
+- [ ] Phase 3 (The AI Pivot): MSCS Bridge, Deep Learning, and NLP Specialization.
 
 ---
 
