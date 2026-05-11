@@ -9,31 +9,40 @@ I bridge the gap between rigorous mathematical foundations and high-stakes softw
 ## 🚀 Current Technical Sprint
 
 * 🔭 **Logic Verification Engine:** Developed a Python-based auditor using **Regex** and **Itertools** for $2^n$ state-space exhaustion and formal logic audits.
-* 📐 **Linear Algebra Visualizer:** Built a 3D subspace explorer to verify linear independence and feature redundancy for AI foundations.
-* ✅ **Legacy Success:** Successfully completed **C++ (C867)**, mastering memory management, pointers, and object-oriented architecture.
+* 📐 **Modern C++ Refactor:** Modernized legacy system architecture using **C++20**, **RAII**, and **Smart Pointers** to ensure 100% memory safety.
+* ✅ **Math Foundations:** Navigating **Discrete Mathematics II**, focusing on Number Theory, Cryptography, and Probability for AI reasoning.
+
+---
+
+## 📂 Portfolio Highlights
+
+### 🤖 AI & Computational Logic
+* **[Logic Verification Engine](https://github.com/jkh928/logic-verification-engine):** A Python tool for Tautology Testing and formal logic verification.
+* **[Linear Algebra Python](https://github.com/jkh928/Linear-Algebra-Python):** Explorations in vector spaces, SVD, and matrix transformations for ML intuition.
+
+### ⚙️ Systems & Architecture
+* **[Modern C++ Student Roster](https://github.com/jkh928/modern-cpp-student-roster):** A C++20 refactor showcasing RAII, Smart Pointers, and STL container optimization.
+* **[System Architecture Lab](https://github.com/jkh928/system-architecture-lab):** Documentation and labs focused on low-level system design and performance.
 
 ---
 
 ### 🛠️ Technical Toolkit
-- **Languages:** Python (Primary/AI), C++ (Systems), Java (Enterprise Architecture).
-- **AI/Math:** NumPy, Matplotlib, Discrete Logic, Linear Algebra.
-- **Data & Systems:** SQL (Data Management), Git Bash, Linux/Unix, Visual Studio.
-- **Workflow:** Conventional Commits, Anaconda, Jupyter, Agile/Scrum Mindset.
+- **Languages:** Python (AI/Modeling), C++ (Systems), Java (Upcoming Enterprise Focus).
+- **AI/Math:** NumPy, Matplotlib, Discrete Logic (II), Linear Algebra.
+- **Data & Systems:** SQL (Data Architecture), Git Bash, Linux/Unix, Visual Studio, Visual Studio Code, Pycharm.
+- **Workflow:** Conventional Commits, Anaconda, Jupyter, "Stop-Work" Authority Mindset.
 
 ---
 
 ## 🗺️ The Roadmap
 
 * [x] **Phase 1:** Core Foundations & Data Management
-* [x] **Phase 2:** C++ Systems Architecture & Logic Foundations ⚡
-* [ ] **Phase 3 (Active):** Discrete Math II, Linear Algebra, & AI Safety Frameworks
-* [ ] **Phase 4:** Enterprise Back-End (Java), Docker, and Scalable Systems
+* [x] **Phase 2:** C++ Systems Architecture & Logic Foundations 
+* [x] **Phase 3 (Active):** Discrete Math II, Number Theory, & Cryptography ⚡
+* [ ] **Phase 4:** Enterprise Back-End (Java Wall) & Scalable Systems
 * [ ] **Phase 5:** MSCS Bridge: Deep Learning, NLP, and SVD Optimization
 
 ---
 
 ### 📫 Connect with me
-I am currently accelerating through my **BSCS + MSCS (AI/ML) Bridge** and actively building my technical portfolio. I am open to discussing **AI Safety Research**, **Data Infrastructure**, and **Systems Integrity**.
-
 * **LinkedIn:** [linkedin.com/in/joshuahasam](https://www.linkedin.com/in/joshuahasam/) 
-* **GitHub (Portfolio):** [github.com/jkh928](https://github.com/jkh928)
